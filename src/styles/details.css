@@ -1,0 +1,31 @@
+.label{
+    font-size: larger;
+}
+
+.header{
+    margin-left: 25px;
+}
+.input{
+    width:96%;
+    height:25px;
+}
+.field{
+display: flex;
+flex-direction: column;
+margin-bottom: 10px;
+margin-left: 25px;
+}
+
+.button{
+    margin-top: 30px;
+    margin-left: 25px;
+    background: #444ca4;
+    color: #e5e6cd;
+    height:38px;
+}
+
+.service{
+    margin-left: 25px;
+    font-size: 25px;
+    margin-top: 35px;
+}
